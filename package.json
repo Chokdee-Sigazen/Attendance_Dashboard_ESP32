@@ -1,6 +1,7 @@
 {
   "name": "attendance-dashboard",
   "private": true,
+  "homepage": "https://chokdee-sigazen.github.io/Attendance_Dashboard_ESP32",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
